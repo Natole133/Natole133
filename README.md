@@ -1,7 +1,7 @@
 Hi my name is Natnael
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on someone who is interested in mobile app development
+- 💞️ I’m looking to collaborate with someone who is interested in mobile app development
 - 📫 How to reach me-You can contact me through my email address natigetachew748@gmail.com
 <!---
 Natole133/Natnael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
