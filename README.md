@@ -1,4 +1,4 @@
-Hi my name is Natnae
+Hi my name is Natnael
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on someone who is interested in mobile app development
